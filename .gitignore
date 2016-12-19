@@ -216,3 +216,4 @@ pip-log.txt
 
 #WebStorm or InteliJ
 .idea
+node_modules
